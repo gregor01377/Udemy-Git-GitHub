@@ -1,17 +1,21 @@
 # html
 
-## 概要
+## about
 gitレクチャー用のリポジトリ
 
-## 使い方
+## how to
 必ずブランチを切って開発する。
 リモートリポジトリにpushしたら、プルリクエストを使ってマージ。
 
-## メンバー
+## developers
 ・anies
 ・joy
 
 ## about git pull
+update rocal git
 
 ## about git push
-aaaaaaaaaaaaaa
+git push "where" "branch-name"
+
+## Guidelines for developers
+Do NOT push trash files on git
