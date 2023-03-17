@@ -12,4 +12,6 @@ gitレクチャー用のリポジトリ
 ・joy
 
 ## about git pull
-install information of remoto repogitory 
+
+## about git push
+aaaaaaaaaaaaaa
