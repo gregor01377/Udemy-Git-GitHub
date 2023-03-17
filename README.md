@@ -13,3 +13,6 @@ gitレクチャー用のリポジトリ
 
 ## about git push
 aaaaaaaaaaaaaa
+
+## git pull　とは
+install information of remoto repogitory 
