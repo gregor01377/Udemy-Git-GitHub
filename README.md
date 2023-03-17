@@ -10,3 +10,6 @@ gitレクチャー用のリポジトリ
 ## メンバー
 ・anies
 ・joy
+
+## git pull　とは
+install information of remoto repogitory 
